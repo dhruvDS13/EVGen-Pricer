@@ -52,8 +52,6 @@ EVGen-Pricer/
 
 **Requirements**: Ensure you have the `models/` and `data/` folders populated (included in repo).
 
-## 📄 License
-MIT License © 2025. See [LICENSE](LICENSE) for details.
 
 ## 👨‍💻 Author
 **Dhruv Kumar Singh**  
