@@ -51,10 +51,3 @@ EVGen-Pricer/
    Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 **Requirements**: Ensure you have the `models/` and `data/` folders populated (included in repo).
-
-
-## 👨‍💻 Author
-**Dhruv Kumar Singh**  
-[GitHub](https://github.com/dhruvDS13) | [LinkedIn](https://www.linkedin.com/in/dhruv-kumar-singh-51a86725a)  
-
-*Exploring green tech one prediction at a time. 🚀*
