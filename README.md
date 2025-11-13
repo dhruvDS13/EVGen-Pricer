@@ -5,10 +5,6 @@
 ## 🧠 Live Demo
 🔗 **Try it here:** [EVGen-Pricer Web App](https://evgen-pricer-hstnemvzmknvmwhyctb9av.streamlit.app/)
 
-<p align="center"><img width="1920" height="826" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/6ad35600-b18c-4667-83ed-618944179ff7" />
-
-  <img src="./Screenshot%20(174).png" alt="EVGen-Pricer UI Preview" width="700">
-</p>
 
 ## 📝 Overview
 EVGen-Pricer is a prototype web application designed to explore electric vehicle (EV) price estimation through user-friendly interfaces. It combines basic machine learning techniques with interactive elements to help users understand factors influencing EV costs. This is an experimental project developed during an ongoing internship, focusing on sustainable tech and data-driven insights.
