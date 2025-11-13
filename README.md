@@ -2,7 +2,8 @@
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF6B35?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-## 🧠 Live Demo
+## 🧠 Live Demo<img width="1920" height="826" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/ec631d52-07c7-499a-9f3f-5b6b733f07f4" />
+
 🔗 **Try it here:** [EVGen-Pricer Web App](https://evgen-pricer-hstnemvzmknvmwhyctb9av.streamlit.app/)
 
 
