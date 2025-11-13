@@ -5,7 +5,8 @@
 ## 🧠 Live Demo
 🔗 **Try it here:** [EVGen-Pricer Web App](https://evgen-pricer-hstnemvzmknvmwhyctb9av.streamlit.app/)
 
-<p align="center">
+<p align="center"><img width="1920" height="826" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/6ad35600-b18c-4667-83ed-618944179ff7" />
+
   <img src="./Screenshot%20(174).png" alt="EVGen-Pricer UI Preview" width="700">
 </p>
 
